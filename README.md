@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Font+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 RightFont Free Installer** — RightFont is a lightweight font manager for macOS that provides fast font browsing, activation, and organization without heavy enterprise features. Works without internet access, no account required. Full offline installation.
+**💻 RightFont Free Installer** — RightFont is a professional font manager for macOS that provides instant font activation, Adobe and Sketch app sync, smart collections, and a visual font browser. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About RightFont
 
-RightFont is a lightweight font manager for macOS that provides fast font browsing, activation, and organization without heavy enterprise features. Preview fonts with custom text, organize into groups, sync font collections with Dropbox or Google Drive, and use the menu bar quick-access for instant font lookup. RightFont's speed and simplicity make it ideal for individual designers who want font management without complexity.
+RightFont is a professional font manager for macOS that provides instant font activation, Adobe and Sketch app sync, smart collections, and a visual font browser. Designers use it to organize thousands of fonts without installing them all system-wide.
 
 ---
 
 ## ❌ Problem: RightFont is hard to access
 
-- **macOS Only** — No Windows version
-- **Commercial License** — Paid one-time purchase
-- **Enterprise Features** — Less capable than FontExplorer X for team or studio environments
-- **Auto-Activation** — Limited auto-activation plugin support compared to FontExplorer X
+- **macOS Only** — No Windows or Linux version
+- **Paid License** — Requires purchase
+- **Subscription Alternative** — Fontbase and Suitcase Fusion compete in the same space
+- **Performance** — Very large libraries (20,000+) can cause slowdowns during preview rendering
 
 ---
 
@@ -121,7 +121,7 @@ RightFont is a lightweight font manager for macOS that provides fast font browsi
 
 ---
 
-**RightFont Free Installer** — RightFont is a lightweight font manager for macOS that provides fast font browsing, activation, and organization without heavy enterprise features. Install without internet connection today!
+**RightFont Free Installer** — RightFont is a professional font manager for macOS that provides instant font activation, Adobe and Sketch app sync, smart collections, and a visual font browser. Install without internet connection today!
 
 <div align="center">
 
